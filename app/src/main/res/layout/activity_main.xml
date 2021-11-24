@@ -22,12 +22,12 @@
         android:layout_gravity="center_horizontal"
         android:src="@drawable/zar_bos"
         tools:src="@drawable/zar_1" />
-   <Button
-       android:id="@+id/roll_button"
-       android:layout_width="wrap_content"
-       android:layout_height="wrap_content"
-       android:layout_gravity="center_horizontal"
-       android:text="@string/rool_label"
-   />
+
+    <Button
+        android:id="@+id/roll_button"
+        android:layout_width="197dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/rool_label" />
 
 </LinearLayout>
